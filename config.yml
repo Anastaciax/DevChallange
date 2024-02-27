@@ -1,0 +1,7 @@
+development:
+  password: shptka_89dfc712cb8513b6e984f9fd7cbed75a
+  theme_id: 140033949938
+  store: teststoredevchallange.myshopify.com
+  ignore_files:
+    - config/settings_data.json
+    - settings_data.json
